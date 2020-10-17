@@ -1,0 +1,9 @@
+{
+	"name":"Orfanato 4",
+	"latitude":16.7296194,
+	"longitude":-43.8675705,
+	"about":"Sobre",
+	"instructions":"Visite",
+	"opening_hours":"8 as 18",
+	"open_on_weekends":true
+}
